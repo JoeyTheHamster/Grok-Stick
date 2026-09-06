@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grok Stick",
+      "hasCanvas": false,
+      "bodyTextLen": 2744,
+      "bodyTextHash": "68e74628f0ffe3296856aa2c97ce0bd9366cb923d4345de56fccb9b2d9001de8",
+      "bodyTextPrefix": "Grok Stick CLI 1.0.13 PORTABLE GROK CLI Keep Grok on a flash dri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grok Stick",
+      "hasCanvas": false,
+      "bodyTextLen": 2744,
+      "bodyTextHash": "68e74628f0ffe3296856aa2c97ce0bd9366cb923d4345de56fccb9b2d9001de8",
+      "bodyTextPrefix": "Grok Stick CLI 1.0.13 PORTABLE GROK CLI Keep Grok on a flash dri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,7 @@
+# Optional. Rename this file to "api-key" (no extension) and paste your key
+# on its own line below. Get a key at https://console.x.ai
+#
+# If you skip this, Grok opens a browser to sign in. The session is stored
+# on this drive as home/auth.json — it travels with the stick.
+#
+# xai-your-key-here

@@ -1,0 +1,5 @@
+# Grok Stick — this file lives on the flash drive (GROK_HOME).
+# The launcher disables host installs and auto-updates.
+
+[cli]
+auto_update = false
