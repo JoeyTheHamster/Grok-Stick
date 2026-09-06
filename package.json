@@ -4,6 +4,10 @@
   "description": "Portable Grok CLI kit — keep the official binary, login, and sessions on a USB stick.",
   "private": true,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoeyTheHamster/Grok-Stick.git"
+  },
   "sideEffects": false,
   "type": "module",
   "overrides": {

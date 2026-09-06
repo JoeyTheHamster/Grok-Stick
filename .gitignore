@@ -4,6 +4,7 @@ dist/
 .vercel/
 .nitro/
 .tanstack/
+*.tsbuildinfo
 .project_id
 .github_repo
 .node_modules.lock

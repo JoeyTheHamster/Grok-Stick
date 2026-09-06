@@ -24,7 +24,7 @@ This repository is the landing page and kit generator. The downloadable zip is a
 
 ```bash
 # Windows
-E:\GrokStick\grok.cmd
+E:\\GrokStick\\grok.cmd
 
 # macOS
 /Volumes/USB/GrokStick/grok
@@ -39,7 +39,7 @@ Optional, so this terminal can just type `grok`:
 
 ```bash
 # PowerShell
-. E:\GrokStick\env.ps1
+. E:\\GrokStick\\env.ps1
 
 # macOS / Linux
 source /Volumes/USB/GrokStick/env.sh
