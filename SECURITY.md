@@ -28,3 +28,5 @@ Out of scope:
 
 - Bugs in the official Grok CLI itself — report those to xAI
 - Someone copying `home/auth.json` off a stick they already have physical access to (treat the drive like a password manager)
+
+We aim to respond to reports within a few days.
