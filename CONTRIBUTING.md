@@ -30,3 +30,5 @@ npm run test
 2. One concern per PR.
 3. Update the kit templates under `src/lib/kit/templates/` if launcher behavior changes — and keep `src/lib/kit/templates/README.txt` in sync.
 4. Describe what you changed and how you verified it (which OS, first-run vs cached binary).
+
+Questions? Open an issue first if the change is large.
