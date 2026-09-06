@@ -1,6 +1,9 @@
 {
-  "name": "app-builder-workspace",
+  "name": "grok-stick",
+  "version": "1.0.0",
+  "description": "Portable Grok CLI kit — keep the official binary, login, and sessions on a USB stick.",
   "private": true,
+  "license": "MIT",
   "sideEffects": false,
   "type": "module",
   "overrides": {
